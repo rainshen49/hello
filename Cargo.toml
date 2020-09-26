@@ -1,5 +1,5 @@
 [package]
-name = "rust-multithreaded-server"
+name = "hello"
 version = "0.1.0"
 authors = ["Lingkai Shen <slk49@live.cn>"]
 edition = "2018"
